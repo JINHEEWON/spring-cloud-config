@@ -1,6 +1,2 @@
-{
-  "name": "configtest",
-  "profiles": [
-    "dev"
-  ]
-}
+metanet:
+  value: dev-test-value
